@@ -8,16 +8,17 @@ Files: .gitattributes
 Copyright: 2020 Sveriges Television AB <opensource@svt.se>
 License: CC0-1.0
 
+Files: *.md
+Copyright: 2020 Sveriges Television AB <opensource@svt.se>
+           2020 CFPB Consumer Finanical Protection Bureau. <tech@cfpb.gov>
+License: CC0-1.0
+
 Files: docs/CONTRIBUTING.md
 Copyright: 2020 HERE Europe B.V. <opensource@here.com>
            2020 CFPB Consumer Finanical Protection Bureau. <tech@cfpb.gov>
            2020 Sveriges Television AB <opensource@svt.se>
 License: CC0-1.0 and Apache-2.0
 
-Files: *.md
-Copyright: 2020 Sveriges Television AB <opensource@svt.se>
-           2020 CFPB Consumer Finanical Protection Bureau. <tech@cfpb.gov>
-License: CC0-1.0
 
 Files: *.sh
 Copyright: 2020 Sveriges Television AB <opensource@svt.se>
