@@ -31,19 +31,18 @@ https://developercertificate.org/[Developer Certificate of Origin]
 A DCO is a lightweight way for a contributor to confirm that they wrote or otherwise have the right
 to submit code or documentation to a project. 
 
-Git has the `-s` flag that can signoff a commit for you, see example below:
+To confirm that you agree to the DCO, you need to *sign off* your commits when sending us a pull request. Technically, this is done by supplying the `-s`/`--signoff` flag to git when committing:
 
-`$ git commit -s -m "add fix for the bug`
+`$ git commit -s -m "add fix for the bug"`
 
-Optionally, you can also sign the commit with  `-S` which also gives your commit a nice verified button on GitHub,
-but, it requires that you have 
-https://docs.github.com/en/github/authenticating-to-github/signing-commits[Sign commit on GitHub with GPG key]
+Optionally, you can also sign the commit with `-S` which also gives your commit a nice verified button on GitHub,
+but, it requires that you have a GPG keypair set up.
+For mor information, see https://docs.github.com/en/github/authenticating-to-github/signing-commits[Sign commit on GitHub with GPG key]
 
 
-`$ git commit -s -S -m "add fix for the bug`
+`$ git commit -s -S -m "add fix for the bug"`
 
 For the difference in signoff and signing, see
-
 https://medium.com/@MarkEmeis/git-commit-signoff-vs-signing-9f37ee272b14/[Git signoff vs signing]
 
 == Git History
