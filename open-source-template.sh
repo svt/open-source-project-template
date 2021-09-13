@@ -6,14 +6,14 @@ root_files=(
   ".gitattributes"
   ".gitignore"
   "CHANGELOG.md"
-  "CONTRIBUTING.md"
   "README.md"
 )
 
 docs_files=(
-  "CONTRIBUTING.md"
+  "CONTRIBUTING.adoc"
+  "DEVELOPMENT.md"
   "INSTALL.md"
-  "CODE_OF_CONDUCT.md"
+  "CODE_OF_CONDUCT.adoc"
 )
 
 gh_issue_template_files=(
@@ -31,14 +31,15 @@ download_if_not_exists () {
   if [ ! -f "./${path}" ]; then
       curl -so "./${path}" "${url}/${path}" && echo "OK" || echo "FAILED"
   else
-    echo "SKIPPED (allready exists)"
+    echo "SKIPPED (exists)"
   fi
 }
 
 echo "creating .github and ISSUE_TEMPLATE directory"
 
 mkdir -p .github/ISSUE_TEMPLATE
-mkdir -p .github/PULL_REQUEST_TEMPLATE
+mkdir -p LICENSES
+mkdir -p .reuse
 mkdir -p docs
 
 echo "downloading files"
@@ -52,7 +53,7 @@ for file in "${gh_issue_template_files[@]}"; do
 done
 
 for file in "${gh_pr_template_files[@]}"; do
-  download_if_not_exists ".github/PULL_REQUEST_TEMPLATE/${file}" ]
+  download_if_not_exists ".github/${file}" ]
 done
 
 for file in "${docs_files[@]}"; do
