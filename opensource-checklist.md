@@ -33,7 +33,7 @@
   - You might want to use the [OWASP Dependency Check](https://jeremylong.github.io/DependencyCheck/analyzers/index.html)
 
 
-- **Do an code review**
+- **Do a code review**
 
 ## Recommended
 
