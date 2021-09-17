@@ -23,6 +23,15 @@ Copyright: 2020 HERE Europe B.V. <opensource@here.com>
            2020 Sveriges Television AB <opensource@svt.se>
 License: CC0-1.0 and Apache-2.0
 
+Files: SECURITY.md
+Copyright: 2020 IEEE Open Source Maintainers Manual. <saopen-security@ieee.org> 
+           2021 Sveriges Television AB <opensource@svt.se>
+License: Apache-2.0
+
+Files: CODE_OF_CONDUCT.md
+Copyright: 2021 Contributor Covenant https://www.contributor-covenant.org/
+           2021 Sveriges Television AB <opensource@svt.se>
+License: Apache-2.0
 
 Files: *.sh
 Copyright: 2020 Sveriges Television AB <opensource@svt.se>

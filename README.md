@@ -140,11 +140,20 @@ The SVT Open Source Template Project was made possible by:
 
 [ORT Open Source Review Toolkit](https://github.com/heremaps/oss-review-toolkit)
 
-All assets released under Creative Commons CC0-1.0 (Thanks CFPB) except for parts of the CONTRIBUTING.md which is
+All assets released under Creative Commons CC0-1.0 (Thanks CFPB) except for parts of the CONTRIBUTING.adoc which is
 
-Copyright: 2017-2020 HERE Europe B.V. <opensource@here.com>
+Copyright: 2017-2020 HERE Europe B.V. <opensource@here.com>  
 License: Apache-2.0
 
+The SECURITY.md which is
+
+Copyright: 2020 IEEE Open Source Maintainers Manual. <saopen-security@ieee.org>  
+License: Apache-2.0
+
+And the CODE_OF_CONDUCT.md
+
+Copyright: [Contributor Covenant](https://www.contributor-covenant.org/)  
+License: Apache-2.0
 
 ----
 
@@ -152,7 +161,7 @@ License: Apache-2.0
 
 Name and git-account for primary maintainer 
 
-Josef Andersson https://github.com/jandersson-svt
+[Josef Andersson at SVT](https://github.com/jandersson-svt)  
 
 ## Credits and references
 
