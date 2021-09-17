@@ -142,14 +142,18 @@ The SVT Open Source Template Project was made possible by:
 
 All assets released under Creative Commons CC0-1.0 (Thanks CFPB) except for parts of the CONTRIBUTING.adoc which is
 
-Copyright: 2017-2020 HERE Europe B.V. <opensource@here.com>
+Copyright: 2017-2020 HERE Europe B.V. <opensource@here.com>  
 License: Apache-2.0
 
-And the SECURITY.md which is
+The SECURITY.md which is
 
 Copyright: 2020 IEEE Open Source Maintainers Manual. <saopen-security@ieee.org>  
 License: Apache-2.0
 
+And the CODE_OF_CONDUCT.md
+
+Copyright: [Contributor Covenant](https://www.contributor-covenant.org/)  
+License: Apache-2.0
 
 ----
 
