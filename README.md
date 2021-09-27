@@ -5,7 +5,7 @@
 #### SVT Open Source Project Template Instructions
 
   1. Create a new project.
-  2. [Copy these files into the new project](#template-installation)
+  2. [Copy these files into the new project](#template-usage)
   3. Update the README, replacing the contents below as prescribed.
   4. If working with an existing code base, answer the questions on the [open source checklist](opensource-checklist.md)
   5. Delete these instructions and everything up to the _Project Title_ from the README.
