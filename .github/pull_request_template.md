@@ -19,17 +19,9 @@ Please delete options that are not relevant.
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
-Please delete options that are not relevant.
+## Checklist
 
-**Test Configuration**:
-* Firmware version:
-* Hardware:
-* Toolchain:
-* SDK:
-
-## Checklist:
-
-- [ ] I confirm that I wrote and/or have the right to submit the contents of my PR, by agreeing to the Developer Certificate of Origin (see https://github.com/svt/open-source-project-template/blob/master/docs/CONTRIBUTING.adoc[docs/CONTRIBUTING]).
+- [ ] I confirm that I wrote and/or have the right to submit the contents of my PR, by agreeing to the Developer Certificate of Origin (see [docs/CONTRIBUTING](../docs/CONTRIBUTING.adoc).
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code in hard-to-understand areas

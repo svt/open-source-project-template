@@ -1,0 +1,20 @@
+---
+name: example workflow
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  license:
+    uses: ./.github/workflows/license.yml
+  lint:
+    uses: ./.github/workflows/lint.yml
+  repolint:
+    uses: ./.github/workflows/repolint.yml
