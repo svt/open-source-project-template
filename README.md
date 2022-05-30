@@ -14,7 +14,7 @@
 
 - **As a project template in GitHub**: When creating a new repository in GitHub, just choose the template  
 
-![Photo: GitHub - project template / SVT / CC-BY-SA 4.0](https://github.com/svt/open-source-project-template/blob/master/project_template.png)
+![Photo: GitHub - project template / SVT / CC-BY-SA 4.0](https://github.com/svt/open-source-project-template/blob/main/project_template.png)
 <figcaption>Photo: GitHub - project template / SVT / CC-BY-SA 4.0.</figcaption>
 
 or
@@ -56,7 +56,7 @@ Suggestions of things to include:
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
-![Photo: Encore - at a glance / SVT / CC-BY-SA 4.0](https://github.com/svt/open-source-project-template/blob/master/screenshot.jpeg)
+![Photo: Encore - at a glance / SVT / CC-BY-SA 4.0](https://github.com/svt/open-source-project-template/blob/main/screenshot.jpeg)
 <figcaption>Photo: Encore - at a glance / SVT / CC-BY-SA 4.0.</figcaption>
 
 
