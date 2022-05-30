@@ -18,8 +18,7 @@ Copyright: 2020 Sveriges Television AB <opensource@svt.se>
 License: CC0-1.0
 
 Files: docs/CONTRIBUTING.adoc
-Copyright: 2020 HERE Europe B.V. <opensource@here.com>
-           2020 CFPB Consumer Finanical Protection Bureau. <tech@cfpb.gov>
+Copyright: 2020 CFPB Consumer Finanical Protection Bureau. <tech@cfpb.gov>
            2020 Sveriges Television AB <opensource@svt.se>
 License: CC0-1.0 and Apache-2.0
 
@@ -30,13 +29,7 @@ License: Apache-2.0
 
 Files: CODE_OF_CONDUCT.md
 Copyright: 2021 Contributor Covenant https://www.contributor-covenant.org/
-           2021 Sveriges Television AB <opensource@svt.se>
-License: Apache-2.0
-
-Files: *.sh
-Copyright: 2020 Sveriges Television AB <opensource@svt.se>
-           2020 CFPB Consumer Finanical Protection Bureau. <tech@cfpb.gov>
-License: CC0-1.0
+License: CC-BY-4.0
 
 Files: *.yml
 Copyright: 2020 Sveriges Television AB <opensource@svt.se>
